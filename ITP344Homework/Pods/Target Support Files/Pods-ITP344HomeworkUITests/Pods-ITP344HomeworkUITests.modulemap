@@ -1,0 +1,6 @@
+framework module Pods_ITP344HomeworkUITests {
+  umbrella header "Pods-ITP344HomeworkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
